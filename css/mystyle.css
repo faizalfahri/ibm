@@ -1,0 +1,33 @@
+.jumbotron {
+  background-color: #e2edff;
+  /* background-color: #e2edff; */
+}
+#projects {
+  background-color: #e2edff;
+}
+.card {
+  border-radius: 35px;
+}
+.card img {
+  border-radius: 35px;
+}
+.card:hover {
+  transform: translateY(-20px);
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.4);
+  transition: 0.5s;
+}
+section {
+  padding-top: 5rem;
+}
+button:hover {
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+  transition: 0.5s;
+}
+.jumboimg:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+  transition: 0.5s;
+}
+.cursor {
+  cursor: pointer;
+}
